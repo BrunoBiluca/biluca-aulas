@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "b8ac972e9026eff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7feebdfaf33d4a52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a49390706f4dac9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a437a4c6174c0326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ferramentas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8701793a2ccd5a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "e10fa1a3adee0346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7ba05ecfb4e7f3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e9d9a270e525a4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "474d6ec860e766b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6e08bc5617c9283f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1438ea92bdccde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cf37d2c903a0a1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ferramentas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edf4c4970fb50132",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ferramentas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e8a0c1b9de3400d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e288e1bfd15b7b1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ferramentas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a437a4c6174c0326",
+  "lastOpenFiles": [
+    "Ferramentas.md",
+    "Estruturas básicas de linguagens de programação.md",
+    "README.md"
+  ]
+}
