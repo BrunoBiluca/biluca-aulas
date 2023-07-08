@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Estruturas básicas de linguagens de programação.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Estruturas básicas de linguagens de programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Estruturas básicas de linguagens de programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Estruturas básicas de linguagens de programação.md"
               }
             }
           }
@@ -154,10 +154,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0cf37d2c903a0a1d",
+  "active": "a437a4c6174c0326",
   "lastOpenFiles": [
-    "Ferramentas.md",
     "README.md",
+    "Ferramentas.md",
     "Estruturas básicas de linguagens de programação.md"
   ]
 }
