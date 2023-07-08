@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a49390706f4dac9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "a437a4c6174c0326",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estruturas básicas de linguagens de programação.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas básicas de linguagens de programação.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas básicas de linguagens de programação.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estruturas básicas de linguagens de programação.md"
+                "file": "README.md"
               }
             }
           }
@@ -156,8 +147,13 @@
   },
   "active": "a437a4c6174c0326",
   "lastOpenFiles": [
+    "Estruturas Básicas/Iteração (Repetição).md",
+    "Estruturas Básicas/Condicionais.md",
+    "Estruturas Básicas/Coleções.md",
+    "Estruturas Básicas/Variáveis.md",
+    "Estruturas básicas de linguagens de programação.md",
+    "Estruturas Básicas",
     "README.md",
-    "Ferramentas.md",
-    "Estruturas básicas de linguagens de programação.md"
+    "Ferramentas.md"
   ]
 }

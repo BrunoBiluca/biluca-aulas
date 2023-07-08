@@ -26,3 +26,4 @@ Cada commit deve ter um tipo associado, esses tipos são definidos como emojis p
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 📝    | Alteração relacionada a documentação do projeto, seja por adição de notas, explicações, exemplos |
 | 🗑️    | Remoção de conteúdos, arquivos ou partes do texto |
+| ♻️    | Alteração ou reformulação estrutural, seja por alteração na organização do projeto, nos arquivos ou pastas |
