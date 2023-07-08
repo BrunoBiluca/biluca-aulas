@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a49390706f4dac9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "a437a4c6174c0326",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +148,12 @@
   "active": "a437a4c6174c0326",
   "lastOpenFiles": [
     "README.md",
-    "Ferramentas.md",
-    "Estruturas básicas de linguagens de programação.md"
+    "Estruturas Básicas/Iteração (Repetição).md",
+    "Estruturas Básicas/Condicionais.md",
+    "Estruturas Básicas/Coleções.md",
+    "Estruturas Básicas/Variáveis.md",
+    "Estruturas básicas de linguagens de programação.md",
+    "Estruturas Básicas",
+    "Ferramentas.md"
   ]
 }
