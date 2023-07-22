@@ -25,5 +25,6 @@ Cada commit deve ter um tipo associado, esses tipos são definidos como emojis p
 | Emoji | Descrição                                                                                                                                                          |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 📝    | Alteração relacionada a documentação do projeto, seja por adição de notas, explicações, exemplos |
+| 🐍    | Conteúdo relacionado a python, exercícios e exemplos |
 | 🗑️    | Remoção de conteúdos, arquivos ou partes do texto |
 | ♻️    | Alteração ou reformulação estrutural, seja por alteração na organização do projeto, nos arquivos ou pastas |

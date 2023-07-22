@@ -3,7 +3,14 @@
 
 ## Listas
 
-> [!warning] Fazer a descrição
+```python
+
+lista = ["a", "b", "c"]
+
+print(lista[0]) # "a"
+print(lista[1]) # "b"
+print(lista[2]) # "c"
+```
 
 ## Dicionários
 

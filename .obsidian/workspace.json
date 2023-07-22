@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estruturas básicas de linguagens de programação.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas básicas de linguagens de programação.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas básicas de linguagens de programação.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estruturas básicas de linguagens de programação.md"
+                "file": "README.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +147,26 @@
   },
   "active": "a437a4c6174c0326",
   "lastOpenFiles": [
-    "README.md",
+    "Python/Instalação de um módulo python.md",
     "Estruturas Básicas/Iteração (Repetição).md",
     "Estruturas Básicas/Condicionais.md",
+    "Python/Conversões.md",
     "Estruturas Básicas/Coleções.md",
-    "Estruturas Básicas/Variáveis.md",
+    "Python/Manipulações de texto.md",
+    "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
+    "Python",
+    "Exemplos/Leitura de csv/venv/Scripts/deactivate.bat",
+    "Exemplos/Leitura de csv/venv/Scripts/activate.bat",
+    "Exemplos/Leitura de csv/venv/Scripts/Activate.ps1",
+    "Exemplos/Leitura de csv/venv/Scripts/activate",
+    "Exemplos/Leitura de csv/venv/Lib/site-packages/pip-21.2.3.dist-info/RECORDsjof02gj.tmp",
+    "Exemplos/Leitura de csv/venv/Lib/site-packages/pip-21.2.3.dist-info/REQUESTED",
+    "Exemplos/Leitura de csv/venv/Lib/site-packages/pip-21.2.3.dist-info/INSTALLER",
+    "Exemplos/Leitura de csv/venv/Scripts/pip3.10.exe",
+    "Exemplos/Leitura de csv/venv/Scripts/pip3.exe",
     "Estruturas básicas de linguagens de programação.md",
-    "Estruturas Básicas",
+    "README.md",
+    "Estruturas Básicas/Variáveis.md",
     "Ferramentas.md"
   ]
 }
