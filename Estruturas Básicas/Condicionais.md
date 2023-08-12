@@ -24,3 +24,12 @@ elif corote == "Azul":
 else:
 	print("Feliz")
 ```
+
+Operadores Lógicos:
+
+And: Cria uma condição onde um numero é verdadeiro apenas quando cumpre duas ou mais regras.
+
+Or: Se pelo menos uma das condições for verdadeira o resultado será verdadeiro.
+
+Not: Inverte o resultado. Se o resultado da expressão for True,
+o operador retorna false, e vice-versa.
