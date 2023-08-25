@@ -1,16 +1,15 @@
-# Jogo não mortal
-Descrição: Um parasito unicelular deve escapar de uma célula, para isso ele deve encontrar uma proteína de membrana que será sua chave. Para ele capturar a chave, o parasito deve mover nas direções N,S,O,L.
+# Gato sendo gato
+Descrição: Você é um gato entediado e quer sair do quarto. Para isso, você deve encontrar o humano no quarto e miar escandalosamente para que ele possa abrir a porta e você sair.
 
-Tipos de partes da célula:
-- Parte vazia
-- Parte com a proteína
-- Parte com a Saída
+Tipos de partes do quarto:
+- Parte vazio
+- Parte com o humano
+- Parte com a Saída (porta)
 
-Direção do parasito:
--L,O,N,S
+Direção que o gato pode seguir para encontrar o humano:
+-leste (L), oeste(O), norte(N), sul(S)
 
-Delimitação da célula:
--gride 3x3, dividos em partes (vazio,proteína,saída)
+Delimitação do quarto:
+-gride 3x3, dividos em partes (vazio, parte com o humano,saída)
 
-Posição da saída:
--
+
