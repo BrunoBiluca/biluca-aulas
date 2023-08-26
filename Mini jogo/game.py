@@ -1,19 +1,19 @@
-print("Você é um parasito e deve encontrar a proteína de membrana para escapar da célula")
-#print('Você está em uma parte vazia da célula')
+print("Você é um gato que está entediado de ficar no quarto e deve encontrar o humano para que ele possa abrir a porta e você sair")
+#print('Você está em uma parte vazia do quarto')
 
-tipo_parte = 'proteína'
+tipo_parte = 'humano'
 if tipo_parte == 'vazia':
-    print('Você está em uma parte vazia da célula')
-elif tipo_parte == 'proteína':
-    print('Você está em uma parte proteíca')
+    print('Você está em uma parte vazia do quarto')
+elif tipo_parte == 'humano':
+    print('Você está em uma parte com o humano')
 elif tipo_parte == 'saida':
-    print('Você está na saída da célula')
+    print('Você está na saída do quarto')
 
 comandos = input("O que vc quer fazer? ")
-if comandos == 'Pegar a proteína':
-    if  tipo_parte == 'proteína':
-        print('Você pegou a proteína')
+if comandos == 'encontrar o humano':
+    if  tipo_parte == 'humano':
+        print('Você encontrou o humano')
     else:
-        print('Não há proteína aqui')
+        print('O humano não está aqui')
 else:
     print('Comando inválido')
