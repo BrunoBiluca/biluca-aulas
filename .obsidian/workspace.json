@@ -23,8 +23,12 @@
             "id": "9222db6351c64d8b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estruturas Básicas/Condicionais.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estruturas Básicas/Condicionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estruturas Básicas/Condicionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estruturas Básicas/Condicionais.md"
+              }
             }
           }
         ]
@@ -153,17 +161,17 @@
   },
   "active": "9222db6351c64d8b",
   "lastOpenFiles": [
-    "Python/Instalação de um módulo python.md",
-    "README.md",
-    "Python/Manipulações de texto.md",
-    "Estruturas Básicas/Condicionais.md",
     "Estruturas Básicas/Iteração (Repetição).md",
+    "Estruturas Básicas/Condicionais.md",
     "Estruturas Básicas/Coleções.md",
     "Estruturas Básicas/Variáveis.md",
     "Mini jogo/game.md",
     "Mini jogo/Cenário.jpg",
+    "README.md",
     "Ferramentas.md",
     "Estruturas básicas de linguagens de programação.md",
+    "Python/Manipulações de texto.md",
+    "Python/Instalação de um módulo python.md",
     "Python/Conversões.md",
     "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
     "Mini jogo/0ac9f049-ce0c-430d-9398-d531bfda029a.jpg",

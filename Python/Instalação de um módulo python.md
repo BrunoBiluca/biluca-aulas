@@ -1,5 +1,3 @@
-#python 
-
 Um módulo python é uma pasta que tem um ambiente virtual dos scripts python.
 
 Para iniciar um módulo python, na pasta desejada, rode o comando:
