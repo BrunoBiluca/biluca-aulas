@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estruturas Básicas/Iteração (Repetição).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mini jogo/game.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas Básicas/Iteração (Repetição).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas Básicas/Iteração (Repetição).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estruturas Básicas/Iteração (Repetição).md"
+                "file": "README.md"
               }
             }
           }
@@ -158,17 +159,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a7ba05ecfb4e7f3a",
+  "active": "9222db6351c64d8b",
   "lastOpenFiles": [
-    "Mini jogo/Cenário.jpg",
-    "Mini jogo/gride.py.4ea00debe7ea34df0f8b9d1a3aaaa209.tmp",
-    "Mini jogo/gride.py",
-    "Estruturas Básicas/Condicionais.md",
     "Estruturas Básicas/Coleções.md",
-    "README.md",
-    "Mini jogo/game.md",
-    "Estruturas básicas de linguagens de programação.md",
+    "Estruturas Básicas/Variáveis.md",
+    "Estruturas Básicas/Iteração (Repetição).md",
+    "Estruturas Básicas/Condicionais.md",
+    "Mini jogo/gride.py",
     "Python/Instalação de um módulo python.md",
+    "README.md",
+    "Python/Manipulações de texto.md",
+    "Mini jogo/game.md",
+    "Mini jogo/Cenário.jpg",
+    "Ferramentas.md",
+    "Estruturas básicas de linguagens de programação.md",
+    "Python/Conversões.md",
+    "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
+    "Mini jogo/0ac9f049-ce0c-430d-9398-d531bfda029a.jpg",
     "Mini jogo/game.py",
     "Mini jogo/game",
     "Mini jogo/venv/Scripts/deactivate.bat",
@@ -177,11 +184,6 @@
     "Mini jogo/venv/Scripts/activate",
     "Mini jogo/venv/Lib/site-packages/pip-23.1.2.dist-info/REQUESTED",
     "Mini jogo/venv/Lib/site-packages/pip-23.1.2.dist-info/INSTALLER",
-    "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
-    "Estruturas Básicas/Iteração (Repetição).md",
-    "Python/Conversões.md",
-    "Python/Manipulações de texto.md",
-    "Estruturas Básicas/Variáveis.md",
-    "Ferramentas.md"
+    "Mini jogo/venv/Scripts/pip3.11.exe"
   ]
 }

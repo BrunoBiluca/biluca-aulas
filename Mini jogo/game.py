@@ -1,7 +1,7 @@
 print("Você é um gato que está entediado de ficar no quarto e deve encontrar o humano para que ele possa abrir a porta e você sair")
 #print('Você está em uma parte vazia do quarto')
 
-tipo_parte = 'humano'
+tipo_parte = 'vazia'
 if tipo_parte == 'vazia':
     print('Você está em uma parte vazia do quarto')
 elif tipo_parte == 'humano':
