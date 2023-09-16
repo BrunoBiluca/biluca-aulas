@@ -4,7 +4,7 @@ Algoritmo 2) Fazer um algoritmo que calcule a área de um triângulo.
 
 Algoritmo 3) Fazer um algoritmo que calcule a área de um trapézio.
 
-Desafio 1) Fazer um programa onde o usário escolhe qual a área que ele quer calcular 
+Desafio 1) Fazer um programa onde o usuário escolhe qual a área que ele quer calcular 
 
 Algoritmo 4) Crie um algoritmo que leia dois números inteiros e que depois mostre: O primeiro valor elevado ao segundo valor O primeiro valor vezes o segundo valor O número inverso do primeiro valor (se não souber o que é o valor inverso, pesquise) A soma do segundo número com a metade do primeiro número A diferença do primeiro número com o segundo O valor oposto do segundo número
 
