@@ -1,5 +1,5 @@
 from Atividade2F import calcular_triangulo
-from atividade3F import calcular_trapezio
+from Atividade3F import calcular_trapezio
 
 
 while True:

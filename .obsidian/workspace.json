@@ -23,9 +23,11 @@
             "id": "9f34170fb5940189",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Estruturas Básicas/Condicionais.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -169,31 +171,30 @@
   },
   "active": "9f34170fb5940189",
   "lastOpenFiles": [
-    "Exercícios/1layne.py",
+    "Estruturas Básicas/Coleções.md",
     "Exercícios/Atividades.md",
+    "Mini jogo/game.md",
+    "Mini jogo/Cenário.jpg",
+    "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
+    "Python/Conversões.md",
+    "Python/Instalação de um módulo python.md",
+    "Python/Manipulações de texto.md",
+    "Estruturas básicas de linguagens de programação.md",
+    "README.md",
+    "Ferramentas.md",
+    "Exercícios/1layne.py",
     "Exercícios/Atividade1.py",
     "Exercícios/Atividade 1/Atividades.md",
     "Estruturas Básicas/Iteração (Repetição).md",
     "Exercícios/Atividade 1",
     "Exercícios",
-    "Mini jogo/Cenário.jpg",
     "Mini jogo/gride.py.4ea00debe7ea34df0f8b9d1a3aaaa209.tmp",
     "Mini jogo/gride.py",
     "Estruturas Básicas/Condicionais.md",
-    "Estruturas Básicas/Coleções.md",
-    "README.md",
-    "Mini jogo/game.md",
-    "Estruturas básicas de linguagens de programação.md",
-    "Python/Instalação de um módulo python.md",
     "Mini jogo/game.py",
     "Mini jogo/game",
     "Mini jogo/venv/Scripts/deactivate.bat",
     "Mini jogo/venv/Scripts/activate.bat",
-    "Mini jogo/venv/Scripts/Activate.ps1",
-    "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
-    "Python/Conversões.md",
-    "Python/Manipulações de texto.md",
-    "Estruturas Básicas/Variáveis.md",
-    "Ferramentas.md"
+    "Estruturas Básicas/Variáveis.md"
   ]
 }
