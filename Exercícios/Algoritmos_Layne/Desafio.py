@@ -1,6 +1,6 @@
-from areas import area_triangulo
-from areas import area_trapezio
-from areas import quadrado
+from Algoritmos_Layne.Areas import area_triangulo
+from Algoritmos_Layne.Areas import area_trapezio
+from Algoritmos_Layne.Areas import quadrado
 
 while True:
     print('Qual dessas operações você gostaria de calcular?(em centímetros)\n')
