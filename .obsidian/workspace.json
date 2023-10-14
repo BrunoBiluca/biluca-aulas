@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a48e174802225b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercícios/Organização de Arquivos/Organização de arquivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52afcf3e8626772a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estruturas Básicas/Arquivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88de16a8bff43e45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estruturas Básicas/Arquivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas Básicas/Condicionais.md",
+                "file": "Estruturas Básicas/Arquivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas Básicas/Condicionais.md",
+                "file": "Estruturas Básicas/Arquivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estruturas Básicas/Condicionais.md"
+                "file": "Estruturas Básicas/Arquivos.md"
               }
             }
           },
@@ -169,8 +205,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9f34170fb5940189",
+  "active": "88de16a8bff43e45",
   "lastOpenFiles": [
+    "Sem título.md",
+    "Estruturas Básicas/Arquivos.md",
+    "Exercícios/Organização de Arquivos/Output/Jedi.png",
+    "Exercícios/Organização de Arquivos/Organização de arquivos.md",
+    "Estruturas Básicas/Arquivos",
+    "Exercícios/Organização de Arquivos/organizaitor.py",
+    "Exercícios/Organização de Arquivos/Output",
+    "Exercícios/Organização de Arquivos/Nova pasta",
+    "Exercícios/Organização de Arquivos/Teste/Teste01.fbx",
+    "Exercícios/Organização de Arquivos/Teste/Novo Documento RTF.rtf",
+    "Exercícios/Organização de Arquivos/Teste/Novo Documento de Texto.txt",
+    "Exercícios/Organização de Arquivos/Teste/Jedi.png",
+    "Exercícios/Organização de Arquivos/Teste/df3f1804.jpg",
+    "Exercícios/Organização de Arquivos/Teste/Communism Art Puzzle.zip",
+    "Exercícios/Organização de Arquivos/Teste/biluca-xgrid.7z",
+    "Exercícios/Organização de Arquivos/Teste/2208894816864eed960c7b3ff790d7a9.mp4",
     "Estruturas Básicas/Coleções.md",
     "Exercícios/Atividades.md",
     "Mini jogo/game.md",
@@ -182,19 +234,9 @@
     "Estruturas básicas de linguagens de programação.md",
     "README.md",
     "Ferramentas.md",
-    "Exercícios/1layne.py",
-    "Exercícios/Atividade1.py",
     "Exercícios/Atividade 1/Atividades.md",
     "Estruturas Básicas/Iteração (Repetição).md",
-    "Exercícios/Atividade 1",
-    "Exercícios",
-    "Mini jogo/gride.py.4ea00debe7ea34df0f8b9d1a3aaaa209.tmp",
-    "Mini jogo/gride.py",
     "Estruturas Básicas/Condicionais.md",
-    "Mini jogo/game.py",
-    "Mini jogo/game",
-    "Mini jogo/venv/Scripts/deactivate.bat",
-    "Mini jogo/venv/Scripts/activate.bat",
     "Estruturas Básicas/Variáveis.md"
   ]
 }

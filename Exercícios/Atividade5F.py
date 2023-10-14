@@ -17,7 +17,7 @@ elif valor_a > 0:
     elif delta == 0: 
         denominador = 2 * valor_a
         valor_final_x = -valor_b / denominador
-        print('A equação possui ambas as raizas reais como ' + str(valor_final_x))
+        print('A equação possui ambas as raizes reais como ' + str(valor_final_x))
     elif delta > 0:
         denominador = 2 * valor_a
         baskara_positivo = -valor_b + raiz_de_delta
