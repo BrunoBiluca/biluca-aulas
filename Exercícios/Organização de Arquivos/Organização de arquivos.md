@@ -36,7 +36,8 @@ Formato do arquivo de entrada:
 
 Etapas para a conclusão do programa:
 
-- Mover um arquivo específico de uma pasta para outra
+- (ok) Mover um arquivo específico de uma pasta para outra
+- (ok) Listar os arquivos de uma pasta 
 - Mover um arquivo pelo tipo  para uma pasta
 - Identificar os arquivos pelos tipos
 - Mover arquivos do tipo de imagem
