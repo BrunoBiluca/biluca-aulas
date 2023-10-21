@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9ec0d5c9911d1ad3",
+        "id": "0deef69eb2ec2a71",
         "type": "tabs",
         "children": [
           {
-            "id": "4758b5c0f70fe445",
+            "id": "107a5b3ab14aeaec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estruturas Básicas/Condicionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f34170fb5940189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estruturas Básicas/Condicionais.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estruturas Básicas/Condicionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estruturas Básicas/Condicionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Estruturas Básicas/Condicionais.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +148,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9f34170fb5940189",
+  "active": "107a5b3ab14aeaec",
   "lastOpenFiles": [
-    "Estruturas Básicas/Coleções.md",
+    "Estruturas Básicas/Condicionais.md",
     "Exercícios/Atividades.md",
+    "Estruturas Básicas/Coleções.md",
     "Mini jogo/game.md",
     "Mini jogo/Cenário.jpg",
     "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
@@ -190,7 +170,6 @@
     "Exercícios",
     "Mini jogo/gride.py.4ea00debe7ea34df0f8b9d1a3aaaa209.tmp",
     "Mini jogo/gride.py",
-    "Estruturas Básicas/Condicionais.md",
     "Mini jogo/game.py",
     "Mini jogo/game",
     "Mini jogo/venv/Scripts/deactivate.bat",
