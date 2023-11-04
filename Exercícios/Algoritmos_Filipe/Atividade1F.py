@@ -1,5 +1,5 @@
-from Atividade2F import calcular_triangulo
-from Atividade3F import calcular_trapezio
+from Algoritmos_Filipe.Atividade2F import calcular_triangulo
+from Algoritmos_Filipe.Atividade3F import calcular_trapezio
 
 
 while True:

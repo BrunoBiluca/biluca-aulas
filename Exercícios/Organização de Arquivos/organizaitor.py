@@ -11,6 +11,8 @@ origem = "Teste"
 destino = "Output"
 
 for nome in os.listdir(origem):
-    print(nome)
-    if nome == 'Jedi.png':
-        os.rename( origem +'/' + nome , destino+ '/' + nome)
+    print('arquivo encontrado: ' + nome)
+    if nome.endswith(tuple([".png", ".jpg"])):
+        os.rename( origem +'/' + nome , destino + '/' + nome)
+        print('Foi movido o aquivo: ' + nome + ' para a pasta ' + destino + '.')
+    print('')
