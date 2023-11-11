@@ -9,10 +9,16 @@ import os
 
 origem = "Teste"
 destino = "Output"
+imagem = "Output/Imagem"
 
-for nome in os.listdir(origem):
+if not os.path.isdir(imagem):
+    os.mkdir(destino + '/Imagem')
+    print("A pasta não existe!")
+
+for nome in os.listdir(destino):
     print('arquivo encontrado: ' + nome)
     if nome.endswith(tuple([".png", ".jpg"])):
-        os.rename( origem +'/' + nome , destino + '/' + nome)
-        print('Foi movido o aquivo: ' + nome + ' para a pasta ' + destino + '.')
+        os.rename( destino +'/' + nome , imagem + '/' + nome)
+        print('Foi movido o aquivo: ' + nome + ' para a pasta ' + imagem + '.')
     print('')
+
