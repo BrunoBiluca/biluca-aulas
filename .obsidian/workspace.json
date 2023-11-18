@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b0181128b2dd94f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Gerenciamento de arquivos/Biblioteca.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
+                "file": "Python/Gerenciamento de arquivos/Biblioteca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
+                "file": "Python/Gerenciamento de arquivos/Biblioteca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md"
+                "file": "Python/Gerenciamento de arquivos/Biblioteca.md"
               }
             }
           },
@@ -156,19 +169,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a7ba05ecfb4e7f3a",
+  "active": "1b0181128b2dd94f",
   "lastOpenFiles": [
-    "Exercícios/Organização de Arquivos/Output/Gatinho.jpg",
-    "Exercícios/Organização de Arquivos/Teste/Gatinho.jpg",
-    "Exercícios/Organização de Arquivos/Output/Jedi.png",
+    "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
+    "Python/Gerenciamento de arquivos/Biblioteca.md",
+    "Exercícios/Organização de Arquivos/Output/Documentos/Novo Documento RTF.rtf",
+    "Exercícios/Organização de Arquivos/Output/Documentos/Novo Documento de Texto.txt",
+    "Exercícios/Organização de Arquivos/Output/Documentos",
+    "Exercícios/Organização de Arquivos/Output/Imagens/Jedi.png",
+    "Exercícios/Organização de Arquivos/Output/Imagens/Gatinho.jpg",
     "Exercícios/Organização de Arquivos/Teste/Jedi.png",
+    "Exercícios/Organização de Arquivos/Teste/Gatinho.jpg",
+    "Exercícios/Organização de Arquivos/Output/Imagem/Jedi.png",
+    "Exercícios/Organização de Arquivos/Output/Imagem/Gatinho.jpg",
+    "Exercícios/Organização de Arquivos/Output/Imagens",
+    "Exercícios/Organização de Arquivos/Teste/Imagens/Jedi.png",
+    "Exercícios/Organização de Arquivos/Teste/Imagens",
+    "Exercícios/Organização de Arquivos/Output/Imagem",
+    "Exercícios/Organização de Arquivos/Output/Gatinho.jpg",
+    "Exercícios/Organização de Arquivos/Imagens",
+    "Exercícios/Organização de Arquivos/Output/Jedi.png",
     "Exercícios/Organização de Arquivos/Output/df3f1804.jpg",
     "Estruturas Básicas/Condicionais.md",
     "Exercícios/Atividades.md",
     "Estruturas Básicas/Coleções.md",
     "Mini jogo/game.md",
-    "Mini jogo/Cenário.jpg",
-    "Python/Gerenciamento de arquivos/Leitura de arquivos em Python.md",
     "Python/Conversões.md",
     "Python/Instalação de um módulo python.md",
     "Python/Manipulações de texto.md",
@@ -180,13 +205,6 @@
     "Exercícios/Atividade 1/Atividades.md",
     "Estruturas Básicas/Iteração (Repetição).md",
     "Exercícios/Atividade 1",
-    "Exercícios",
-    "Mini jogo/gride.py.4ea00debe7ea34df0f8b9d1a3aaaa209.tmp",
-    "Mini jogo/gride.py",
-    "Mini jogo/game.py",
-    "Mini jogo/game",
-    "Mini jogo/venv/Scripts/deactivate.bat",
-    "Mini jogo/venv/Scripts/activate.bat",
     "Estruturas Básicas/Variáveis.md"
   ]
 }

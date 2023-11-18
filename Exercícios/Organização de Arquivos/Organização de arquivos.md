@@ -40,8 +40,8 @@ Etapas para a conclusão do programa:
 - (ok) Listar os arquivos de uma pasta 
 - (ok) Mover um arquivo pelo tipo para uma pasta
 - (ok) Identificar os arquivos pelos tipos
-- Mover arquivos do tipo de imagem
-- Mover arquivos do tipo de documento
+- (ok) Mover arquivos do tipo de imagem
+- (ok) Mover arquivos do tipo de documento
 - Mover arquivos do tipo de vídeos
 - Mover arquivos não identificados
 - Ler o arquivo de entrada

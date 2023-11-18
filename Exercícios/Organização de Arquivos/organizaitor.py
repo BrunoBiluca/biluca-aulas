@@ -9,16 +9,32 @@ import os
 
 origem = "Teste"
 destino = "Output"
-imagem = "Output/Imagem"
+imagem = "Output/Imagens"
+documento = "Output/Documentos"
 
-if not os.path.isdir(imagem):
-    os.mkdir(destino + '/Imagem')
-    print("A pasta não existe!")
+def transferencia_de_imagens(origem,imagem):
+    if not os.path.isdir(imagem):
+        os.mkdir(imagem)
+        print("A pasta não existe!")
 
-for nome in os.listdir(destino):
-    print('arquivo encontrado: ' + nome)
-    if nome.endswith(tuple([".png", ".jpg"])):
-        os.rename( destino +'/' + nome , imagem + '/' + nome)
-        print('Foi movido o aquivo: ' + nome + ' para a pasta ' + imagem + '.')
-    print('')
+    for nome in os.listdir(origem):
+        print('arquivo encontrado: ' + nome)
+        if nome.endswith(tuple([".png", ".jpg"])):
+            os.rename(origem +'/' + nome , imagem + '/' + nome)
+            print('Foi movido o aquivo: ' + nome + ' para a pasta ' + imagem + '.')
+        print('')
 
+def transferencia_de_documentos(origem,documento):
+    if not os.path.isdir(documento):
+        os.mkdir(documento)
+        print("A pasta não existe!")
+
+    for nome in os.listdir(origem):
+        print('arquivo encontrado: ' + nome)
+        if nome.endswith(tuple([".txt", ".rtf"])):
+            os.rename(origem +'/' + nome , documento + '/' + nome)
+            print('Foi movido o aquivo: ' + nome + ' para a pasta ' + documento + '.')
+        print('')
+
+transferencia_de_imagens(origem,imagem)
+transferencia_de_documentos(origem,documento)
