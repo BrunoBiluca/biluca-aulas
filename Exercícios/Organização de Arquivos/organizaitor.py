@@ -11,30 +11,28 @@ origem = "Teste"
 destino = "Output"
 imagem = "Output/Imagens"
 documento = "Output/Documentos"
+video = "Output/Vídeos"
+outros = "Output/Outros"
 
-def transferencia_de_imagens(origem,imagem):
-    if not os.path.isdir(imagem):
-        os.mkdir(imagem)
+def transferencia_de_arquivos(origem,arquivo,finais):
+    if not os.path.isdir(arquivo):
+        os.mkdir(arquivo)
         print("A pasta não existe!")
 
     for nome in os.listdir(origem):
         print('arquivo encontrado: ' + nome)
-        if nome.endswith(tuple([".png", ".jpg"])):
-            os.rename(origem +'/' + nome , imagem + '/' + nome)
-            print('Foi movido o aquivo: ' + nome + ' para a pasta ' + imagem + '.')
+        if nome.endswith(finais):
+            os.rename(origem +'/' + nome , arquivo + '/' + nome)
+            print('Foi movido o aquivo: ' + nome + ' para a pasta ' + arquivo + '.')
         print('')
 
-def transferencia_de_documentos(origem,documento):
-    if not os.path.isdir(documento):
-        os.mkdir(documento)
-        print("A pasta não existe!")
 
-    for nome in os.listdir(origem):
-        print('arquivo encontrado: ' + nome)
-        if nome.endswith(tuple([".txt", ".rtf"])):
-            os.rename(origem +'/' + nome , documento + '/' + nome)
-            print('Foi movido o aquivo: ' + nome + ' para a pasta ' + documento + '.')
-        print('')
+transferencia_de_arquivos(origem,imagem,tuple([".png", ".jpg"]))
 
-transferencia_de_imagens(origem,imagem)
-transferencia_de_documentos(origem,documento)
+transferencia_de_arquivos(origem,documento,tuple([".txt", ".rtf"]))
+
+transferencia_de_arquivos(origem,video,tuple([".mp4", ".MOV"]))
+
+transferencia_de_arquivos(origem,outros,tuple([".fbx"]))
+
+
