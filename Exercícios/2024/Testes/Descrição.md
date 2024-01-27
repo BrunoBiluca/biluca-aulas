@@ -7,4 +7,4 @@ Pegar a planilha de controle financeiro e calcular:
 Observações:
 - Implementar testes para as funcionalidades.
 - Quebrar em funções cada funcionalidade
-- Ter nomes claros e descritos para as variáveis e métodos.
+- Ter nomes claros e descritivos para as variáveis e métodos
